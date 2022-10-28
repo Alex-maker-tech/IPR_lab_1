@@ -1,0 +1,17 @@
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\bin\Release\net6.0-windows\IPR_lab_1.exe
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\bin\Release\net6.0-windows\IPR_lab_1.deps.json
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\bin\Release\net6.0-windows\IPR_lab_1.runtimeconfig.json
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\bin\Release\net6.0-windows\IPR_lab_1.dll
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\bin\Release\net6.0-windows\IPR_lab_1.pdb
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.csproj.AssemblyReference.cache
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.Form1.resources
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.csproj.GenerateResource.cache
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.AssemblyInfoInputs.cache
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.AssemblyInfo.cs
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.csproj.CoreCompileInputs.cache
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.dll
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\refint\IPR_lab_1.dll
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.pdb
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\IPR_lab_1.genruntimeconfig.cache
+D:\Инструментарий принятия решения\IPR_lab_1\IPR_lab_1\obj\Release\net6.0-windows\ref\IPR_lab_1.dll
